@@ -1,5 +1,5 @@
 import pymysql
-from User_dto import U_dto
+from User.dto.User_dto import U_dto
 
 
 class U_dao:

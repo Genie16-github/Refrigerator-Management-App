@@ -1,6 +1,6 @@
-from Product_dao import P_dao
-from Recipe_dao import R_dao
-from User_dao import U_dao
+from Product.dao.Product_dao import P_dao
+from Recipe.dao.Recipe_dao import R_dao
+from User.dao.User_dao import U_dao
 
 db_host = "127.0.0.1"
 db_port = 3306

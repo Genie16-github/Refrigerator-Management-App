@@ -1,5 +1,5 @@
 import socket
-from Service import Service
+from util.Service import Service
 from ocr_date import receiveImg
 import cv2
 import numpy as np
