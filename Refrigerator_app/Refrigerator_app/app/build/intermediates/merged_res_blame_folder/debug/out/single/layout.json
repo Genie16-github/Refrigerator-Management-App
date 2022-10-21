@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment3_layout.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recipe1.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recipe_item.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_grid_item.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\content_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_item.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_info2.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_info2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info2.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment_info2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_progress.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_join.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recipe_sr.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe_sr.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_info.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment1_layout.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update_info.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_update_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recipe2.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment2_layout.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment2_layout.xml"
+    }
+]

@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_font.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_main_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_info.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_update_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_nanumpen.otf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\nanumpen.otf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate_clockwise.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\anim\\rotate_clockwise.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_ref_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ref_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_ref_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ref_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_emoji_u1f600.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\emoji_u1f600.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipe1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_ref_logo.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_ref_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_meat.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\meat.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_ref_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_ref_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_salt.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\salt.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_bread.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\bread.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_cabbage.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\cabbage.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_progress.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_ref_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_ref_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_app_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable-v24\\ic_app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_storage_border2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\storage_border2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_main_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\xml_file_path.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\xml\\file_path.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_main_logo.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_main_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_main_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_ref_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ref_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_ref.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ref.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_mom.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\mom.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_main_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_ref_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_ref_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_egg.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\egg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_ref_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ref_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_hipi.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\hipi.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_main_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calender.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_calender.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_main_logo_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_main_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_heart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable-v24\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_mandoo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\mandoo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_student.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\student.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_banana.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\banana.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_ref.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_ref.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_content_grid_item.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\content_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_ref_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ref_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_ref_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_ref_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_storage_border3.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\storage_border3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_baguette.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\baguette.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_info2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment_info2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_ref_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_ref_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_ref_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_ref_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment2_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_ref_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_ref_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_butter.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\butter.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_main_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_info2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_info2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_ref_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_ref_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_ref_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ref_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_storage_border3_1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\storage_border3_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_main_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_ref_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ref_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_storage_border1_1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\storage_border1_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_storage_border2_1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\storage_border2_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_lemon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\lemon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittext_rounded_corner_rectangle.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\edittext_rounded_corner_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_ref_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_ref_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_ref_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_ref_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipe2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_ref.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ref.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_gold.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\gold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_app_icon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable-v24\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_apple.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_main_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_recipe_icon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\recipe_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_search_.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_squid.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\squid.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_cooking_oil.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\cooking_oil.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\border_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_photato.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\photato.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\anim_fab_open.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_carrot.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\carrot.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_ref_logo_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_ref_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_shrimp.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\shrimp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart_size.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\heart_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_ref_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_ref_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_rose.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\rose.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment1_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_icecream.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\icecream.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_main_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_round2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\border_round2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_bean_curd.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\bean_curd.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_main_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_main_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_main_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_ref_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_ref_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipe_sr.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe_sr.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_soybean.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\soybean.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_ref_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ref_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_progress_bg.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\progress_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_coke.PNG.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\coke.PNG"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_main_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_main_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_progress_image.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\progress_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_join.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_mini.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\mini.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_water.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\water.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_kimchi.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\kimchi.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_item.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment3_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\fragment3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_ref.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_ref.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_info.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable_storage_border1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\drawable\\storage_border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_ref_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_ref_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_ref_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_ref_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_onion.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\onion.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_ref.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_ref.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate_anticlocksiwse.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\anim\\rotate_anticlocksiwse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipe_item.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_ref_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_ref_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_garlic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\garlic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\anim_fab_close.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\raw_green_onion.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\raw\\green_onion.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_ref_logo_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ref_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_ref_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ref_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_main_logo_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_namu.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\namu.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_ref.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_ref.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\font_slow.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\font\\slow.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_ref_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Refrigerator_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_ref_foreground.png"
+    }
+]
