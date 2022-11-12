@@ -3,6 +3,8 @@ from util.Service import Service
 from ocr_date import receiveImg
 import cv2
 import numpy as np
+import datetime
+
 
 
 def get_bytes_stream(sock, s_length):
@@ -29,7 +31,8 @@ def main():
     server_sock = socket.socket(socket.AF_INET)
     server_sock.bind((host, port))
     server_sock.listen(1)
-    print("연결 대기 중..")
+    print("MySQL DB 연결 완료")
+    print("클라이언트 연결 대기 중..")
 
     while True:
         client_sock, addr = server_sock.accept()  # 연결 승인
@@ -39,12 +42,14 @@ def main():
             len_bytes_string = bytearray(client_sock.recv(1024))[2:]
             len_bytes = len_bytes_string.decode('utf-8')
         except:
-            print("데이터 수신 실패")
+            print("데이터 수신 실패\n")
             pass
 
         if len_bytes[0:7] == 'Product':     # 바코드 검색
             result = str(service.Search_P(len_bytes[7:]))
-            print(result)
+            tmp_name, tmp_store = map(str, result.split("st_"))
+            print("제품명 : ", tmp_name)
+            print("보관 장소 : ", tmp_store)
 
             if result == "None":
                 result = ''
@@ -52,11 +57,11 @@ def main():
             result = result.encode("UTF-8")
             client_sock.send(len(result).to_bytes(2, byteorder='big'))
             client_sock.send(result)
-            print("데이터 송신 완료")
+            print("데이터 송신 완료\n")
 
         elif len_bytes[0:6] == 'Recipe':    # 레시피 검색
             food_arr = list(map(str, len_bytes[6:].split()))
-            print(food_arr)
+            print("냉장고 안 재료 : ", food_arr)
             result = service.Search_R()
 
             recipe_arr = [[0 for j in range(2)] for i in range(len(result))]
@@ -85,12 +90,12 @@ def main():
             else:
                 send_result = f_name[:-1:]
 
-            print(send_result)
+            print("추천 음식 : ", send_result)
 
             send_result = send_result.encode("UTF-8")
             client_sock.send(len(send_result).to_bytes(2, byteorder='big'))
             client_sock.send(send_result)
-            print("데이터 송신 완료")
+            print("데이터 송신 완료\n")
 
         elif len_bytes[0:5] == 'check':     # 로그인 할때 냉장고 이름 들고오는 메서드
             id, pw = map(str, len_bytes[5:].split('#'))
@@ -103,7 +108,7 @@ def main():
             result = result.encode("UTF-8")
             client_sock.send(len(result).to_bytes(2, byteorder='big'))
             client_sock.send(result)
-            print("데이터 송신 완료")
+            print("데이터 송신 완료\n")
 
         elif len_bytes[0:6] == 'Insert':     # 회원가입 메서드
             id, pw, name, email = map(str, len_bytes[6:].split('#'))
@@ -113,7 +118,7 @@ def main():
             result = result.encode("UTF-8")
             client_sock.send(len(result).to_bytes(2, byteorder='big'))
             client_sock.send(result)
-            print("데이터 송신 완료")
+            print("데이터 송신 완료\n")
 
         else:   # 유통기한 인식
             length = int(len_bytes)
@@ -123,7 +128,7 @@ def main():
 
             with open(img_path, 'wb') as writer:
                 writer.write(img_bytes)
-            print(img_path + " is saved")
+            print(img_path + " is saved(이미지 저장)\n")
 
             d_img = cv2.imread('date01.jpg', cv2.IMREAD_COLOR)
             # 이미지 이진화
@@ -145,16 +150,22 @@ def main():
 
             chars = receiveImg(d_img, '418dd09991a16ad0c410f4a38dcf5927')  # 카카오 OCR API
             chars = chars.replace(" ", "")
+            print("인식 결과 : ", chars)
             result_chars = ''
             try:
-                if chars.count('.') == 2 or chars.count(',') == 2 or chars.count('.') + chars.count(',') == 2\
-                        :
+                if chars.count('.') == 2 or chars.count(',') == 2 or chars.count('.') + chars.count(',') == 2:
+                    chars = chars.replace(',', '.')
                     year, month, day = map(str, chars.split("."))
                     result_chars = year[-2:] + month + day[0:2]
-            except IOError or IndexError:
-                print("유통 기한 인식 실패")
-                result_chars = ''
+                elif chars.count('.') == 1 or chars.count(',') == 1:
+                    chars.replace(',', '.')
+                    year = datetime.datetime.now().year
+                    month, day = map(str, chars.split("."))
+                    result_chars = str(year)[-2:] + month[-2:] + day[0:2]
 
+            except IOError or IndexError:
+                print("유통 기한 인식 실패\n")
+                result_chars = ''
 
             """
             for c in chars:
@@ -162,13 +173,13 @@ def main():
                     result_chars += c
             result_chars = result_chars[-6:]
             """
-            print(result_chars)
+            print("추출 결과 : ", result_chars)
 
             result_chars = result_chars.encode("UTF-8")
             client_sock.send(len(result_chars).to_bytes(2, byteorder='big'))
             client_sock.send(result_chars)
             print(result_chars)
-            print("데이터 송신 완료")
+            print("데이터 송신 완료\n")
 
 
 if __name__ == "__main__":

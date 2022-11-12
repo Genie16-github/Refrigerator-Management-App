@@ -29,7 +29,6 @@ def receiveImg(img, appkey):
     while True:
         try:
             words = words + str(output['result'][i]['recognition_words'])[2:]
-            print(words)
             words = words[:-2]
             i = i+1
         except:
