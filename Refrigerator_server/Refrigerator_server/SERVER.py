@@ -189,7 +189,7 @@ def main():
                 print(result_chars)
                 print("데이터 송신 완료\n")
 
-        except IOError or IndexError:
+        except:
             print("데이터 수신 실패\n")
             len_bytes_string.clear()
             pass
