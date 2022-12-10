@@ -28,12 +28,13 @@ def main():
     port = 57000  # 포트번호를 임의로 설정해주세요
 
     service = Service()
-    server_sock = socket.socket(socket.AF_INET)
-    server_sock.bind((host, port))
-    server_sock.listen(1)
     print("MySQL DB 연결 완료")
     print("클라이언트 연결 대기 중..")
 
+    server_sock = socket.socket(socket.AF_INET)
+    server_sock.bind((host, port))
+    server_sock.listen(1)
+    
     while True:
         client_sock, addr = server_sock.accept()  # 연결 승인
         print('연결 주소 : ', addr)
