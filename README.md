@@ -10,3 +10,9 @@
 - 바코드와 유통기한 인식을 통해 제품을 쉽고 빠르게 등록할 수 있습니다.
 - 알림을 통해 사용자가 제품의 남은 유통기한을 인지할 수 있습니다.
 - 냉장고 내부의 재료로 가능한 음식 레시피를 볼 수 있습니다.
+<br/>
+
+## 기술스택
+| <div align="center"><img src="/assets/readme/html.svg" alt="HTML5" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/css.svg" alt="CSS3" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/js.png" alt="JavaScript" width="50px" height="50px" /></div> |
+| :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+|                                      &nbsp;&nbsp;HTML5&nbsp;&nbsp;                                      |                         &nbsp;&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;                         |                                                JavaScript                                                 |
