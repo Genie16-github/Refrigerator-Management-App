@@ -13,6 +13,6 @@
 <br/>
 
 ## 기술스택
-| <div align="center"><img src="/assets/readme/html.svg" alt="HTML5" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/css.svg" alt="CSS3" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/js.png" alt="JavaScript" width="50px" height="50px" /></div> |
+| <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219815851-af1befc5-7ce0-4f36-9526-f352774445d1.png" alt="Python" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/css.svg" alt="CSS3" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/js.png" alt="JavaScript" width="50px" height="50px" /></div> |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 |                                      &nbsp;&nbsp;HTML5&nbsp;&nbsp;                                      |                         &nbsp;&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;                         |                                                JavaScript                                                 |
