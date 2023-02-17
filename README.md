@@ -19,7 +19,7 @@
 <br/>
 
 ## 기술스택
-| <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219815968-c9f5a733-492b-45b7-86c9-fe3b563780a5.png" alt="Python" width="50px" height="50px" /> </div> | <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219816090-20888413-bec8-4020-8703-b33ec1523680.png" alt="MySQL" width="90px" height="50px" /></div> | <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219817633-496b4214-c2dd-4563-b14f-f30fc60b27a2.png" width="90px" height="50px" /> </div> | <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219816368-f1ac657a-121b-4a51-b18d-63ad50a4bc7b.png" width="50px" height="50px" /></div> |
+| <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219815968-c9f5a733-492b-45b7-86c9-fe3b563780a5.png" alt="Python" width="50px" height="50px" /> </div> | <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219816090-20888413-bec8-4020-8703-b33ec1523680.png" alt="MySQL" width="90px" height="50px" /></div> | <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219817633-496b4214-c2dd-4563-b14f-f30fc60b27a2.png" width="100px" height="50px" /> </div> | <div align="center"><img src="https://user-images.githubusercontent.com/80519614/219816368-f1ac657a-121b-4a51-b18d-63ad50a4bc7b.png" width="50px" height="50px" /></div> |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 |                                      &nbsp;&nbsp;Python&nbsp;&nbsp;                                      |                         &nbsp;&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;                         |                                                SQLite                                                 |                                                Android Studio                                                 |
 <br/>
@@ -39,3 +39,6 @@
 
 <br/><br/>
 
+## UI
+![image](https://user-images.githubusercontent.com/80519614/219817934-cc99f2d7-30e0-42a9-8ea1-81c4c640ed64.png)
+![image](https://user-images.githubusercontent.com/80519614/219817991-3eedc15d-1df2-4416-a536-c658f7024aa1.png)
