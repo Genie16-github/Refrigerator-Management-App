@@ -40,8 +40,8 @@
 <br/><br/>
 
 ## UI
-|||
-|:---:|:---:|
+||||
+|:---:|:---:|:---:|
 | <img src="https://user-images.githubusercontent.com/80519614/219818274-7c4fd22c-004d-4415-bc5f-f5c391ec72f7.png"> | <img src="https://user-images.githubusercontent.com/80519614/219818355-4a4087b9-1d8a-4418-ab35-2609810b8aeb.png"> | <img src="https://user-images.githubusercontent.com/80519614/219818429-ebe139be-b223-4cd7-875f-b59a97956df1.png"> |
 | <img src="https://user-images.githubusercontent.com/80519614/219818487-435053b5-2631-490c-999d-90d43bc22e96.png"> | <img src="https://user-images.githubusercontent.com/80519614/219818514-8d750ef6-b3a9-43f8-bb44-709c80ede75c.png"> | <img src="https://user-images.githubusercontent.com/80519614/219818544-f7100c1e-aa30-44ab-8888-e910318acfa6.png"> |
 <br/><br/>
