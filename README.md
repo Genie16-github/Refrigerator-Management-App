@@ -40,5 +40,6 @@
 <br/><br/>
 
 ## UI
-![image](https://user-images.githubusercontent.com/80519614/219817934-cc99f2d7-30e0-42a9-8ea1-81c4c640ed64.png)
-![image](https://user-images.githubusercontent.com/80519614/219817991-3eedc15d-1df2-4416-a536-c658f7024aa1.png)
+<img src="https://user-images.githubusercontent.com/80519614/219817934-cc99f2d7-30e0-42a9-8ea1-81c4c640ed64.png" width="900"><br/>
+<img src="https://user-images.githubusercontent.com/80519614/219817991-3eedc15d-1df2-4416-a536-c658f7024aa1.png" width="600"><br/>
+
